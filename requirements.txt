@@ -1,11 +1,7 @@
-streamlit==1.20.0
-pandas==1.5.3
-numpy==1.24.2
-osmnx==1.1.2
-folium==0.14.0
-scikit-learn==1.2.2
-streamlit-folium==0.10.0
-pickle-mixin==1.0.2
-hashlib==20081119  # hashlib is part of the Python standard library, but it might be necessary to include for compatibility
-geopy==2.2.0      # Optional: For accurate distance calculation
-geopandas==0.12.2  # Optional: For better handling of geospatial data
+streamlit==1.34.0
+pandas==2.2.2
+numpy==1.26.4
+osmnx==1.9.3
+folium==0.16.0
+scikit-learn==1.4.2
+streamlit-folium==0.18.0
