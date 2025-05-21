@@ -1,3 +1,4 @@
+--upgrade pip
 streamlit
 pandas
 numpy
@@ -7,7 +8,7 @@ scikit-learn
 streamlit-folium
 pickle5
 hashlib
-pygments==2.19.1
+pygments==2.10.0
 mdurl==0.1.2
-markdown-it-py==3.0.0
-rich==14.0.0
+markdown-it-py==2.0.0
+rich==12.5.1
